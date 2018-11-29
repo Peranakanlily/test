@@ -1,6 +1,7 @@
 
 public class Car {
 
+	//test written
 	
 	//you dont have to write extends java.lang.Object next to public class Car
 	
